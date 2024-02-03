@@ -14,4 +14,4 @@ io.addListener("connection", (socket) => {
   });
 });
 
-servidorHTTP.listen(4040, '192.168.0.191');
+servidorHTTP.listen(4040);
